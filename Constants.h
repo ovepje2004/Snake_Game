@@ -4,14 +4,14 @@
 #define no_init_all
 
 // Map Configurations
-#define MAP_SIZE 20
+#define MAP_SIZE 24
 
 // Snake Configurations
-#define MIN_LENGTH 1
+#define MIN_LENGTH 3
 #define MAX_LENGTH 30
 
 // Tick Configurations
-#define TICK 100
+#define TICK 250
 
 // Elements
 #define UP 0
